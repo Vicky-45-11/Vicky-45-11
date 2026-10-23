@@ -1,18 +1,222 @@
-# 💫 About Me:
-🚀 Currently working on: AI/ML and full-stack projects<br>🤝 Looking to collaborate on: AI, Machine Learning & innovative software projects<br>🛠️ Looking for help with: Advanced Deep Learning & real-world AI applications<br>🌱 Currently learning: PyTorch, LSTM, CNN, Generative AI & scalable AI systems<br>💬 Ask me about: Python, Java, C++, DSA, SQL, AI/ML, React, Node.js & Git<br>⚡ Fun fact: I believe the best way to learn technology is by building projects with it.
+<!-- Profile README for github.com/Vicky-45-11/Vicky-45-11 -->
 
+<div align="center">
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_.vicky_45) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/VIGNESHWARAN S G) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/VICKY) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vs1130@srmist.edu.in) 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=260&color=gradient&customColorList=12,20,24,30&text=VIGNESHWARAN%20S%20G&fontSize=54&fontColor=ffffff&fontAlignY=42&desc=AI%20%2F%20ML%20%C2%B7%20Full-Stack%20%C2%B7%20Creative%20WebGL&descSize=20&descAlignY=64&animation=fadeIn" alt="Vigneshwaran S G, AI/ML, full-stack and creative WebGL" />
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat-square&logo=powershell&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat-square&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat-square&logo=microsoftazure&logoColor=white) ![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=flat-square&logo=datadog&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat-square&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat-square&logo=anaconda&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=flat-square&logo=angularjs&logoColor=white) ![Buefy](https://img.shields.io/badge/Buefy-7957D5?style=flat-square&logo=buefy&logoColor=48289E) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=flat-square&logo=chart.js&logoColor=white) ![Deno JS](https://img.shields.io/badge/deno%20js-000000?style=flat-square&logo=deno&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat-square&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi) ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=flat-square&logo=jinja&logoColor=black) ![Metero JS](https://img.shields.io/badge/meteorjs-%23d74c4c.svg?style=flat-square&logo=meteor&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=flat-square&logo=react%20query&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![SolidJS](https://img.shields.io/badge/SolidJS-2c4f7c?style=flat-square&logo=solid&logoColor=c8c9cb) ![Stylus](https://img.shields.io/badge/stylus-%23ff6347.svg?style=flat-square&logo=stylus&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=flat-square&logo=three.js&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=flat-square&logo=web3.js&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat-square&logo=nginx&logoColor=white) ![Realm](https://img.shields.io/badge/Realm-39477F?style=flat-square&logo=realm&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat-square&logo=Prisma&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![CrateDB](https://img.shields.io/badge/CrateDB-009DC7?style=flat-square&logo=CrateDB&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=flat-square&logo=adobe&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=flat-square&logo=Adobe%20After%20Effects&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=flat-square&logo=blender&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white) ![Proto.io](https://img.shields.io/badge/Proto.io-161637?style=flat-square&logo=proto.io&logoColor=00e5ff) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=flat-square&logo=sketch&logoColor=black) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat-square&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=flat-square&logo=cisco&logoColor=black) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=flat-square&logo=grafana&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=flat-square&logo=Meta&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat-square&logo=firefox&logoColor=#FF7139) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![Zigbee](https://img.shields.io/badge/zigbee-%23EB0443.svg?style=flat-square&logo=zigbee&logoColor=white) ![AMD](https://img.shields.io/badge/AMD-%23000000.svg?style=flat-square&logo=amd&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=flat-square&logo=nVIDIA&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=flat-square&logo=unity&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=flat-square&logo=steam&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=flat-square&logo=xbox&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=flat-square&logo=epicgames&logoColor=white) ![EA](https://img.shields.io/badge/ea-%23000000.svg?style=flat-square&logo=ea&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=flat-square&logo=unrealengine&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Vicky-45-11&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Vicky-45-11&theme=midnight-purple&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Vicky-45-11&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<a href="https://github.com/Vicky-45-11">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=900&color=A978FF&center=true&vCenter=true&width=720&lines=Building+AI%2FML+and+full-stack+projects;Learning+PyTorch%2C+LSTM%2C+CNN+%26+Generative+AI;Turning+ideas+into+3D+worlds+with+Three.js;The+best+way+to+learn+tech+is+to+build+with+it" alt="Typing animation" />
+</a>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=Vicky-45-11&label=PROFILE+VIEWS&color=a978ff&style=for-the-badge" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/Vicky-45-11?label=FOLLOWERS&style=for-the-badge&color=4f9bff&labelColor=0d1117" alt="Followers" />
+<img src="https://img.shields.io/github/stars/Vicky-45-11?label=STARS&style=for-the-badge&color=ffb14f&labelColor=0d1117&affiliations=OWNER" alt="Stars" />
+
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=Vicky-45-11&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## `> whoami`
+
+```ts
+const vicky = {
+  name: "Vigneshwaran S G",
+  handle: "Vicky-45-11",
+  focus: ["AI / ML", "Full-Stack", "Creative WebGL"],
+  currentlyBuilding: "AI/ML and full-stack projects",
+  currentlyLearning: ["PyTorch", "LSTM", "CNN", "Generative AI", "Scalable AI systems"],
+  lookingToCollaborateOn: ["AI", "Machine Learning", "Innovative software projects"],
+  lookingForHelpWith: ["Advanced Deep Learning", "Real-world AI applications"],
+  askMeAbout: ["Python", "Java", "C++", "DSA", "SQL", "AI/ML", "React", "Node.js", "Git"],
+  funFact: "The best way to learn technology is by building projects with it.",
+} as const;
+```
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🚀 Working on
+AI/ML and full-stack projects, from voice and civic-tech apps to immersive 3D sites.
+
+### 🌱 Learning
+PyTorch · LSTM · CNN · Generative AI · scalable AI systems
+
+</td>
+<td width="50%" valign="top">
+
+### 🤝 Let's collaborate
+AI, machine learning and innovative software projects.
+
+### 🛠️ Need a hand with
+Advanced deep learning and real-world AI applications.
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛰️ Featured builds
+
+<div align="center">
+
+<a href="https://github.com/Vicky-45-11/geoverse"><img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=Vicky-45-11&repo=geoverse&theme=tokyonight&hide_border=true" alt="geoverse" /></a>
+<a href="https://github.com/Vicky-45-11/m340i-atelier"><img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=Vicky-45-11&repo=m340i-atelier&theme=tokyonight&hide_border=true" alt="m340i-atelier" /></a>
+<a href="https://github.com/Vicky-45-11/civiclens-ai"><img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=Vicky-45-11&repo=civiclens-ai&theme=tokyonight&hide_border=true" alt="civiclens-ai" /></a>
+<a href="https://github.com/Vicky-45-11/murmur-voice-site"><img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=Vicky-45-11&repo=murmur-voice-site&theme=tokyonight&hide_border=true" alt="murmur-voice-site" /></a>
+<a href="https://github.com/Vicky-45-11/secondlife-ai"><img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=Vicky-45-11&repo=secondlife-ai&theme=tokyonight&hide_border=true" alt="secondlife-ai" /></a>
+<a href="https://github.com/Vicky-45-11/vigneshwaran-portfolio"><img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=Vicky-45-11&repo=vigneshwaran-portfolio&theme=tokyonight&hide_border=true" alt="vigneshwaran-portfolio" /></a>
+
+</div>
+
+| Project | What it is | Stack |
+| :-- | :-- | :-- |
+| 🌍 [**GeoVerse**](https://github.com/Vicky-45-11/geoverse) | A real-time 3D Earth with a place explorer, three worlds and an Object Lab, driven by custom GLSL shaders | React · Three.js · R3F · TypeScript |
+| 🚗 [**M340i Atelier**](https://github.com/Vicky-45-11/m340i-atelier) | A cinematic 3D car showroom and configurator built from procedural geometry | React · Three.js · R3F · Zustand |
+| 🏙️ [**CivicLens AI**](https://github.com/Vicky-45-11/civiclens-ai) | Civic issue reporting: residents photograph and pin a problem, staff moderate, triage and resolve it with photo evidence, plus a PyTorch image classifier and duplicate detection | FastAPI · PostGIS · PyTorch · Next.js |
+| 🎙️ [**Murmur**](https://github.com/Vicky-45-11/murmur-voice-site) | A voice-dictation product site with a live demo and a typing speed test | React · Web Speech |
+| 🧠 [**SecondLife AI**](https://github.com/Vicky-45-11/secondlife-ai) | An e-waste awareness site that helps people give old devices a second life, with a labelled demo analysis flow | Next.js · React · Three.js · GSAP |
+| 💼 [**Portfolio**](https://github.com/Vicky-45-11/vigneshwaran-portfolio) | My portfolio as a block world you dig through: sky, caves, lava and a final dimension, with a hotbar, XP bar, weather and a project crafting table | React · TypeScript · Tailwind · Framer Motion |
+
+---
+
+## 🧰 Tech arsenal
+
+<div align="center">
+
+**Languages**<br/>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,py,js,ts,html,css,powershell&theme=dark" alt="Languages" />
+
+**Frontend & 3D**<br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,angular,solidjs,threejs,vite,tailwind&theme=dark" alt="Frontend and 3D" />
+
+**Backend & APIs**<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django,deno,prisma,nginx&theme=dark" alt="Backend" />
+
+**AI / ML**<br/>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,anaconda&theme=dark" alt="AI and ML" /><br/>
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras" /> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" /> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+
+**Cloud, DevOps & Monitoring**<br/>
+<img src="https://skillicons.dev/icons?i=aws,azure,vercel,git,github,grafana&theme=dark" alt="Cloud and DevOps" />
+
+**Data**<br/>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,supabase&theme=dark" alt="Data" /><br/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+
+**Design, 3D & Motion**<br/>
+<img src="https://skillicons.dev/icons?i=figma,blender,ae,unity,unreal&theme=dark" alt="Design" />
+
+**Hardware & Systems**<br/>
+<img src="https://skillicons.dev/icons?i=arduino,windows&theme=dark" alt="Hardware and systems" />
+
+</div>
+
+<details>
+<summary><b>More tools I've worked with</b> (click to expand)</summary>
+<br/>
+
+![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=flat-square&logo=datadog&logoColor=white)
+![Render](https://img.shields.io/badge/Render-%2346E3B7.svg?style=flat-square&logo=render&logoColor=white)
+![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=flat-square&logo=chart.js&logoColor=white)
+![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=flat-square&logo=react%20query&logoColor=white)
+![Jinja](https://img.shields.io/badge/jinja-white.svg?style=flat-square&logo=jinja&logoColor=black)
+![Meteor](https://img.shields.io/badge/meteorjs-%23d74c4c.svg?style=flat-square&logo=meteor&logoColor=white)
+![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=flat-square&logo=web3.js&logoColor=white)
+![Stylus](https://img.shields.io/badge/stylus-%23ff6347.svg?style=flat-square&logo=stylus&logoColor=white)
+![Buefy](https://img.shields.io/badge/Buefy-7957D5?style=flat-square&logo=buefy&logoColor=white)
+![Realm](https://img.shields.io/badge/Realm-39477F?style=flat-square&logo=realm&logoColor=white)
+![CrateDB](https://img.shields.io/badge/CrateDB-009DC7?style=flat-square&logo=CrateDB&logoColor=white)
+![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=flat-square&logo=adobe&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white)
+![Proto.io](https://img.shields.io/badge/Proto.io-161637?style=flat-square&logo=proto.io&logoColor=00e5ff)
+![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=flat-square&logo=sketch&logoColor=black)
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white)
+![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=flat-square&logo=cisco&logoColor=black)
+![Zigbee](https://img.shields.io/badge/zigbee-%23EB0443.svg?style=flat-square&logo=zigbee&logoColor=white)
+![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat-square&logo=windows-terminal&logoColor=white)
+![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=flat-square&logo=Meta&logoColor=white)
+![AMD](https://img.shields.io/badge/AMD-%23000000.svg?style=flat-square&logo=amd&logoColor=white)
+![NVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=flat-square&logo=nVIDIA&logoColor=white)
+![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=flat-square&logo=steam&logoColor=white)
+![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=flat-square&logo=xbox&logoColor=white)
+![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=flat-square&logo=epicgames&logoColor=white)
+![EA](https://img.shields.io/badge/ea-%23000000.svg?style=flat-square&logo=ea&logoColor=white)
+
+</details>
+
+---
+
+## 🗺️ Learning roadmap
+
+```mermaid
+flowchart LR
+  A[Python · DSA · SQL] --> B[ML basics<br/>scikit-learn · pandas · NumPy]
+  B --> C[Deep learning<br/>PyTorch · CNN · LSTM]
+  C --> D[Generative AI]
+  D --> E[Scalable AI systems<br/>APIs · cloud · monitoring]
+  A --> F[Full-stack<br/>React · Node.js · FastAPI]
+  F --> E
+  F --> G[Creative WebGL<br/>Three.js · GLSL]
+  G --> E
+  style C fill:#a978ff,stroke:#fff,color:#fff
+  style D fill:#a978ff,stroke:#fff,color:#fff
+  style E fill:#ffb14f,stroke:#fff,color:#000
+```
+
+> The highlighted nodes are what I'm learning right now.
+
+---
+
+## 📊 GitHub stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Vicky-45-11&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vicky-45-11&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+
+<img src="https://streak-stats.demolab.com?user=Vicky-45-11&theme=tokyonight&hide_border=true" alt="Streak" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vicky-45-11&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20activity" alt="Activity graph" />
+
+</div>
+
+---
+
+## 🐍 Contribution snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vicky-45-11/Vicky-45-11/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vicky-45-11/Vicky-45-11/output/github-snake.svg" />
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/Vicky-45-11/Vicky-45-11/output/github-snake-dark.svg" />
+  </picture>
+</div>
+
+<sub>The snake appears after you add the `snake.yml` workflow from this folder and run it once (see the notes at the end).</sub>
+
+---
+
+## 🌐 Let's connect
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vs1130@srmist.edu.in)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN-SLUG)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_.vicky_45)
+[![Pinterest](https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white)](https://pinterest.com/VICKY)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefoxbrowser&logoColor=FF7139)](https://github.com/Vicky-45-11/vigneshwaran-portfolio)
+
+<br/>
+
+💬 **Ask me about** Python · Java · C++ · DSA · SQL · AI/ML · React · Node.js · Git
+
+⚡ *"The best way to learn technology is by building projects with it."*
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=gradient&customColorList=12,20,24,30&section=footer" alt="" />
+
+</div>
