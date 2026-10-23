@@ -308,11 +308,13 @@ flowchart LR
 
 <br/>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Vicky-45-11&theme=tokyo-night&hide_border=true&area=true" alt="Contribution activity graph" />
+<img width="95%" src="https://ghchart.rshah.org/a978ff/Vicky-45-11" alt="Contribution chart" />
 
-<br/>
+<br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Vicky-45-11&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub trophies" />
+<img src="https://img.shields.io/badge/🏆_BUILDER-shipped_6_projects-ffb14f?style=for-the-badge&labelColor=0d1117" alt="Builder" />
+<img src="https://img.shields.io/badge/🧠_LEARNER-PyTorch_·_LSTM_·_CNN-a978ff?style=for-the-badge&labelColor=0d1117" alt="Learner" />
+<img src="https://img.shields.io/badge/🌌_WIZARD-Three.js_·_GLSL-4f9bff?style=for-the-badge&labelColor=0d1117" alt="Wizard" />
 
 </div>
 
