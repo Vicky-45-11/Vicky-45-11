@@ -1,11 +1,13 @@
 <!-- Profile README for github.com/Vicky-45-11/Vicky-45-11 -->
 
+<a id="top"></a>
+
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=260&color=gradient&customColorList=12,20,24,30&text=VIGNESHWARAN%20S%20G&fontSize=54&fontColor=ffffff&fontAlignY=42&desc=AI%20%2F%20ML%20%C2%B7%20Full-Stack%20%C2%B7%20Creative%20WebGL&descSize=20&descAlignY=64&animation=fadeIn" alt="Vigneshwaran S G, AI/ML, full-stack and creative WebGL" />
 
 <a href="https://github.com/Vicky-45-11">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=900&color=A978FF&center=true&vCenter=true&width=720&lines=Building+AI%2FML+and+full-stack+projects;Learning+PyTorch%2C+LSTM%2C+CNN+%26+Generative+AI;Turning+ideas+into+3D+worlds+with+Three.js;The+best+way+to+learn+tech+is+to+build+with+it" alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=900&color=A978FF&center=true&vCenter=true&width=720&lines=Building+AI%2FML+and+full-stack+projects;Learning+PyTorch%2C+LSTM%2C+CNN+%26+Generative+AI;Turning+ideas+into+3D+worlds+with+Three.js;The+best+way+to+learn+tech+is+to+build+with+it" alt="Typing animation" />
 </a>
 
 <br/>
@@ -14,10 +16,21 @@
 <img src="https://img.shields.io/github/followers/Vicky-45-11?label=FOLLOWERS&style=for-the-badge&color=4f9bff&labelColor=0d1117" alt="Followers" />
 <img src="https://img.shields.io/github/stars/Vicky-45-11?label=STARS&style=for-the-badge&color=ffb14f&labelColor=0d1117&affiliations=OWNER" alt="Stars" />
 
+<br/><br/>
+
+<!-- quick-jump menu -->
+<a href="#player"><img src="https://img.shields.io/badge/PLAYER-CARD-a978ff?style=flat-square&labelColor=0d1117" alt="Player card" /></a>
+<a href="#classes"><img src="https://img.shields.io/badge/PICK-A_CLASS-4f9bff?style=flat-square&labelColor=0d1117" alt="Pick a class" /></a>
+<a href="#quests"><img src="https://img.shields.io/badge/QUEST-BOARD-ffb14f?style=flat-square&labelColor=0d1117" alt="Quest board" /></a>
+<a href="#inventory"><img src="https://img.shields.io/badge/INVENTORY-TECH-34d399?style=flat-square&labelColor=0d1117" alt="Inventory" /></a>
+<a href="#snake"><img src="https://img.shields.io/badge/FEED-THE_SNAKE-f43f5e?style=flat-square&labelColor=0d1117" alt="Snake" /></a>
+<a href="#connect"><img src="https://img.shields.io/badge/CONTACT-ME-e879f9?style=flat-square&labelColor=0d1117" alt="Contact" /></a>
+
 </div>
 
 ---
 
+<a id="player"></a>
 ## `> whoami`
 
 ```ts
@@ -32,6 +45,24 @@ const vicky = {
   askMeAbout: ["Python", "Java", "C++", "DSA", "SQL", "AI/ML", "React", "Node.js", "Git"],
   funFact: "The best way to learn technology is by building projects with it.",
 } as const;
+```
+
+### 🎮 Player card
+
+```text
+╔══════════════════════════════════════════════╗
+║  PLAYER   : Vicky-45-11                      ║
+║  CLASS    : AI Engineer / WebGL Wizard       ║
+║  STATUS   : 🟢 online, building something    ║
+╠══════════════════════════════════════════════╣
+║  AI / ML      ████████████░░░░░░░░  LEARNING ║
+║  FULL-STACK   ██████████████░░░░░░  SOLID    ║
+║  WEBGL / 3D   ███████████████░░░░░  FAVOURITE║
+║  DSA          █████████████░░░░░░░  DAILY    ║
+╠══════════════════════════════════════════════╣
+║  QUEST    : PyTorch → LSTM → CNN → GenAI     ║
+║  LOOT     : projects shipped, bugs squashed  ║
+╚══════════════════════════════════════════════╝
 ```
 
 <table>
@@ -57,9 +88,51 @@ Advanced deep learning and real-world AI applications.
 </tr>
 </table>
 
+<p align="right"><a href="#top">⬆ back to top</a></p>
+
 ---
 
-## 🛰️ Featured builds
+<a id="classes"></a>
+## 🧙 Pick a class
+
+> Click a class to expand it.
+
+<details>
+<summary><b>🧠 AI / ML Engineer</b></summary>
+<br/>
+
+**Skills:** PyTorch · TensorFlow · Keras · scikit-learn · Pandas · NumPy
+**Currently levelling up:** LSTM, CNN, Generative AI
+**Proof of work:** [CivicLens AI](https://github.com/Vicky-45-11/civiclens-ai), a PyTorch image classifier with duplicate detection for civic issue reports.
+
+</details>
+
+<details>
+<summary><b>⚙️ Full-Stack Developer</b></summary>
+<br/>
+
+**Skills:** React · Next.js · Node.js · Express · FastAPI · PostgreSQL · Supabase
+**Currently levelling up:** scalable APIs, cloud deploys, monitoring
+**Proof of work:** [Murmur](https://github.com/Vicky-45-11/murmur-voice-site) and [SecondLife AI](https://github.com/Vicky-45-11/secondlife-ai).
+
+</details>
+
+<details>
+<summary><b>🌌 Creative WebGL Wizard</b></summary>
+<br/>
+
+**Skills:** Three.js · React Three Fiber · GLSL · GSAP · Framer Motion
+**Currently levelling up:** custom shaders and procedural geometry
+**Proof of work:** [GeoVerse](https://github.com/Vicky-45-11/geoverse) and [M340i Atelier](https://github.com/Vicky-45-11/m340i-atelier).
+
+</details>
+
+<p align="right"><a href="#top">⬆ back to top</a></p>
+
+---
+
+<a id="quests"></a>
+## 🛰️ Featured builds (quest board)
 
 <div align="center">
 
@@ -72,6 +145,12 @@ Advanced deep learning and real-world AI applications.
 
 </div>
 
+<br/>
+
+<details>
+<summary><b>📜 Read the quest log</b> (what each build does)</summary>
+<br/>
+
 | Project | What it is | Stack |
 | :-- | :-- | :-- |
 | 🌍 [**GeoVerse**](https://github.com/Vicky-45-11/geoverse) | A real-time 3D Earth with a place explorer, three worlds and an Object Lab, driven by custom GLSL shaders | React · Three.js · R3F · TypeScript |
@@ -81,9 +160,18 @@ Advanced deep learning and real-world AI applications.
 | 🧠 [**SecondLife AI**](https://github.com/Vicky-45-11/secondlife-ai) | An e-waste awareness site that helps people give old devices a second life, with a labelled demo analysis flow | Next.js · React · Three.js · GSAP |
 | 💼 [**Portfolio**](https://github.com/Vicky-45-11/vigneshwaran-portfolio) | My portfolio as a block world you dig through: sky, caves, lava and a final dimension, with a hotbar, XP bar, weather and a project crafting table | React · TypeScript · Tailwind · Framer Motion |
 
+</details>
+
+<p align="right"><a href="#top">⬆ back to top</a></p>
+
 ---
 
-## 🧰 Tech arsenal
+<a id="inventory"></a>
+## 🧰 Inventory (tech arsenal)
+
+<details open>
+<summary><b>🎒 Open / close the backpack</b></summary>
+<br/>
 
 <div align="center">
 
@@ -115,6 +203,8 @@ Advanced deep learning and real-world AI applications.
 
 </div>
 
+</details>
+
 <details>
 <summary><b>More tools I've worked with</b> (click to expand)</summary>
 <br/>
@@ -142,14 +232,38 @@ Advanced deep learning and real-world AI applications.
 ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=flat-square&logo=Meta&logoColor=white)
 ![AMD](https://img.shields.io/badge/AMD-%23000000.svg?style=flat-square&logo=amd&logoColor=white)
 ![NVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=flat-square&logo=nVIDIA&logoColor=white)
-![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=flat-square&logo=steam&logoColor=white)
-![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=flat-square&logo=xbox&logoColor=white)
-![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=flat-square&logo=epicgames&logoColor=white)
-![EA](https://img.shields.io/badge/ea-%23000000.svg?style=flat-square&logo=ea&logoColor=white)
 
 </details>
 
+<p align="right"><a href="#top">⬆ back to top</a></p>
+
 ---
+
+## 🧬 Skill map
+
+```mermaid
+mindmap
+  root((Vicky))
+    AI / ML
+      PyTorch
+      CNN
+      LSTM
+      Generative AI
+    Full-Stack
+      React
+      Node.js
+      FastAPI
+      SQL
+    Creative WebGL
+      Three.js
+      GLSL
+      R3F
+    Core
+      Python
+      Java
+      C++
+      DSA
+```
 
 ## 🗺️ Learning roadmap
 
@@ -170,6 +284,17 @@ flowchart LR
 
 > The highlighted nodes are what I'm learning right now.
 
+### ✅ Side quests
+
+- [x] Ship a 3D showroom with procedural geometry
+- [x] Build a civic-tech app with an image classifier
+- [x] Turn my portfolio into a block world
+- [ ] Master LSTM and CNN in PyTorch
+- [ ] Ship a Generative AI project
+- [ ] Deploy an AI system with monitoring
+
+<p align="right"><a href="#top">⬆ back to top</a></p>
+
 ---
 
 ## 📊 GitHub stats
@@ -181,10 +306,40 @@ flowchart LR
 
 <img src="https://streak-stats.demolab.com?user=Vicky-45-11&theme=tokyonight&hide_border=true" alt="Streak" />
 
+<br/>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Vicky-45-11&theme=tokyo-night&hide_border=true&area=true" alt="Contribution activity graph" />
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Vicky-45-11&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub trophies" />
+
 </div>
+
+<p align="right"><a href="#top">⬆ back to top</a></p>
 
 ---
 
+<a id="snake"></a>
+## 🐍 Feed the snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vicky-45-11/Vicky-45-11/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vicky-45-11/Vicky-45-11/output/github-snake.svg" />
+  <img alt="Snake eating my GitHub contributions" src="https://raw.githubusercontent.com/Vicky-45-11/Vicky-45-11/output/github-snake-dark.svg" />
+</picture>
+
+<sub>Every commit I make is food for the snake. Keep it hungry.</sub>
+
+</div>
+
+<p align="right"><a href="#top">⬆ back to top</a></p>
+
+---
+
+<a id="connect"></a>
 ## 🌐 Let's connect
 
 <div align="center">
@@ -194,6 +349,12 @@ flowchart LR
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_.vicky_45)
 [![Pinterest](https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white)](https://pinterest.com/VICKY)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefoxbrowser&logoColor=FF7139)](https://github.com/Vicky-45-11/vigneshwaran-portfolio)
+
+<br/>
+
+### 😄 Dev joke (refresh the page for a new one)
+
+<img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Random dev joke" />
 
 <br/>
 
