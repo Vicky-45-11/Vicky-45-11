@@ -181,23 +181,7 @@ flowchart LR
 
 <img src="https://streak-stats.demolab.com?user=Vicky-45-11&theme=tokyonight&hide_border=true" alt="Streak" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vicky-45-11&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20activity" alt="Activity graph" />
-
 </div>
-
----
-
-## 🐍 Contribution snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vicky-45-11/Vicky-45-11/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vicky-45-11/Vicky-45-11/output/github-snake.svg" />
-    <img alt="Contribution snake" src="https://raw.githubusercontent.com/Vicky-45-11/Vicky-45-11/output/github-snake-dark.svg" />
-  </picture>
-</div>
-
-<sub>The snake appears after you add the `snake.yml` workflow from this folder and run it once (see the notes at the end).</sub>
 
 ---
 
