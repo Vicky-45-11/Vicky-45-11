@@ -322,22 +322,28 @@ flowchart LR
 
 ---
 
+
 <a id="snake"></a>
 ## 🐍 Feed the snake
 
 <div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vicky-45-11/Vicky-45-11/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vicky-45-11/Vicky-45-11/output/github-snake.svg" />
-  <img alt="Snake eating my GitHub contributions" src="https://raw.githubusercontent.com/Vicky-45-11/Vicky-45-11/output/github-snake-dark.svg" />
-</picture>
-
-<sub>Every commit I make is food for the snake. Keep it hungry.</sub>
-
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Vicky-45-11/Vicky-45-11/output/github-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/Vicky-45-11/Vicky-45-11/output/github-snake.svg"
+    />
+    <img
+      alt="Snake eating my GitHub contributions"
+      src="https://raw.githubusercontent.com/Vicky-45-11/Vicky-45-11/output/github-snake.svg"
+      width="100%"
+    />
+  </picture>
+  <sub>Every commit I make is food for the snake. Keep it hungry.</sub>
 </div>
-
-<p align="right"><a href="#top">⬆ back to top</a></p>
 
 ---
 
