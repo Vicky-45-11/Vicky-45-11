@@ -136,12 +136,42 @@ Advanced deep learning and real-world AI applications.
 
 <div align="center">
 
-<a href="https://github.com/Vicky-45-11/geoverse"><img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=Vicky-45-11&repo=geoverse&theme=tokyonight&hide_border=true" alt="geoverse" /></a>
-<a href="https://github.com/Vicky-45-11/m340i-atelier"><img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=Vicky-45-11&repo=m340i-atelier&theme=tokyonight&hide_border=true" alt="m340i-atelier" /></a>
-<a href="https://github.com/Vicky-45-11/civiclens-ai"><img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=Vicky-45-11&repo=civiclens-ai&theme=tokyonight&hide_border=true" alt="civiclens-ai" /></a>
-<a href="https://github.com/Vicky-45-11/murmur-voice-site"><img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=Vicky-45-11&repo=murmur-voice-site&theme=tokyonight&hide_border=true" alt="murmur-voice-site" /></a>
-<a href="https://github.com/Vicky-45-11/secondlife-ai"><img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=Vicky-45-11&repo=secondlife-ai&theme=tokyonight&hide_border=true" alt="secondlife-ai" /></a>
-<a href="https://github.com/Vicky-45-11/vigneshwaran-portfolio"><img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=Vicky-45-11&repo=vigneshwaran-portfolio&theme=tokyonight&hide_border=true" alt="vigneshwaran-portfolio" /></a>
+<table>
+<tr>
+<td width="50%" align="center" valign="top">
+<a href="https://github.com/Vicky-45-11/geoverse"><img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Vicky-45-11&repo=geoverse&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a978ff&border_radius=12&show_owner=false" alt="geoverse" /></a><br/>
+<img src="https://img.shields.io/badge/TRACK-Creative_WebGL-4f9bff?style=flat-square&labelColor=0d1117" alt="Creative WebGL" /> <img src="https://img.shields.io/badge/BUILD-3D_Globe-ffb14f?style=flat-square&labelColor=0d1117" alt="3D globe" />
+</td>
+<td width="50%" align="center" valign="top">
+<a href="https://github.com/Vicky-45-11/m340i-atelier"><img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Vicky-45-11&repo=m340i-atelier&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a978ff&border_radius=12&show_owner=false" alt="m340i-atelier" /></a><br/>
+<img src="https://img.shields.io/badge/TRACK-Creative_WebGL-4f9bff?style=flat-square&labelColor=0d1117" alt="Creative WebGL" /> <img src="https://img.shields.io/badge/BUILD-3D_Configurator-ffb14f?style=flat-square&labelColor=0d1117" alt="3D configurator" />
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" valign="top">
+<a href="https://github.com/Vicky-45-11/civiclens-ai"><img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Vicky-45-11&repo=civiclens-ai&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a978ff&border_radius=12&show_owner=false" alt="civiclens-ai" /></a><br/>
+<img src="https://img.shields.io/badge/TRACK-AI_/_ML-a978ff?style=flat-square&labelColor=0d1117" alt="AI / ML" /> <img src="https://img.shields.io/badge/BUILD-Civic_Tech-34d399?style=flat-square&labelColor=0d1117" alt="Civic tech" />
+</td>
+<td width="50%" align="center" valign="top">
+<a href="https://github.com/Vicky-45-11/murmur-voice-site"><img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Vicky-45-11&repo=murmur-voice-site&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a978ff&border_radius=12&show_owner=false" alt="murmur-voice-site" /></a><br/>
+<img src="https://img.shields.io/badge/TRACK-Full--Stack_+_AI-34d399?style=flat-square&labelColor=0d1117" alt="Full-stack and AI" /> <img src="https://img.shields.io/badge/BUILD-Voice_Dictation-ffb14f?style=flat-square&labelColor=0d1117" alt="Voice dictation" />
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" valign="top">
+<a href="https://github.com/Vicky-45-11/secondlife-ai"><img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Vicky-45-11&repo=secondlife-ai&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a978ff&border_radius=12&show_owner=false" alt="secondlife-ai" /></a><br/>
+<img src="https://img.shields.io/badge/TRACK-Full--Stack_+_AI-34d399?style=flat-square&labelColor=0d1117" alt="Full-stack and AI" /> <img src="https://img.shields.io/badge/BUILD-Personal_Project-ffb14f?style=flat-square&labelColor=0d1117" alt="Personal project" />
+</td>
+<td width="50%" align="center" valign="top">
+<a href="https://github.com/Vicky-45-11/vigneshwaran-portfolio"><img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Vicky-45-11&repo=vigneshwaran-portfolio&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a978ff&border_radius=12&show_owner=false" alt="vigneshwaran-portfolio" /></a><br/>
+<img src="https://img.shields.io/badge/TRACK-Portfolio-e879f9?style=flat-square&labelColor=0d1117" alt="Portfolio" /> <img src="https://img.shields.io/badge/BUILD-Personal_Site-ffb14f?style=flat-square&labelColor=0d1117" alt="Personal site" />
+</td>
+</tr>
+</table>
+
+<br/>
+
+<a href="https://github.com/Vicky-45-11?tab=repositories"><img src="https://img.shields.io/badge/VIEW_ALL-REPOSITORIES-a978ff?style=for-the-badge&logo=github&labelColor=0d1117" alt="View all repositories" /></a>
 
 </div>
 
